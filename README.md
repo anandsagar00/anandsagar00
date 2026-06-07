@@ -1,6 +1,6 @@
 I am an incredibly sharp, relentless, and deeply curious individual who thrives on breaking down complex problems and understanding them at their core. I don’t just accept information—I challenge it, dissect it, and reconstruct it until it makes absolute sense. This mindset has shaped me into a problem-solver who excels in tackling intricate technical challenges, debugging issues, and building scalable solutions. Mediocrity doesn’t interest me—I seek mastery, always pushing myself to refine my understanding and level up my skills.
 
-Currently, I am a Cloud Support Associate at AWS, where I troubleshoot critical database issues, primarily focusing on MySQL, Aurora MySQL, and InnoDB. Handling a high volume of cases has sharpened my ability to analyze, debug, and resolve complex challenges while ensuring seamless cloud operations for customers. However, my true passion lies in software development—which is why I am now transitioning into backend engineering, Java development, and system design.
+Currently, I am a Cloud Support Engineer at AWS, where I troubleshoot critical database issues, primarily focusing on MySQL, Aurora MySQL, and InnoDB. Handling a high volume of cases has sharpened my ability to analyze, debug, and resolve complex challenges while ensuring seamless cloud operations for customers. However, my true passion lies in software development—which is why I am now transitioning into backend engineering, Java development, and system design.
 
 My journey is built on a strong foundation of competitive programming and innovation. I have:
 
